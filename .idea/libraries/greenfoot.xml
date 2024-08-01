@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="greenfoot">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Greenfoot/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Greenfoot/lib/stylesheets" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Greenfoot/lib/javafx/lib" />
+      <root url="jar://$PROJECT_DIR$/../../../../Programmierung/greenfoot/threadchecker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Greenfoot/lib/javafx/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Programmierung/greenfoot/sources" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Greenfoot/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Greenfoot/lib/javafx/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Greenfoot/lib/javafx/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
